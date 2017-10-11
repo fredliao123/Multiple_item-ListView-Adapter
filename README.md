@@ -1,2 +1,2 @@
 # Multiple_item-ListView-Adapter
-一种可以容纳多种不同布局item的Listview的Adapter
+A Listview's Adapter that can contain different layouts and items
